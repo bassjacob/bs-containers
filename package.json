@@ -23,7 +23,7 @@
     "infinite-jest": "glennsl/infinite-jest"
   },
   "peerDependencies": {
-    "bs-platform": "bloomberg/bucklescript"
+    "bs-platform": "~1.7.4"
   },
   "repository": {
     "type": "git",
